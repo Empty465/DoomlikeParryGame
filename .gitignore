@@ -1,10 +1,25 @@
+# Unreal Engine
 Binaries/
 DerivedDataCache/
 Intermediate/
 Saved/
 
+# IDE
 .vs/
 .idea/
 
+# Visual Studio
 *.VC.db
 *.suo
+
+# User-specific
+*.opensdf
+*.sdf
+*.user
+*.userprefs
+
+# Crash dumps
+*.dmp
+
+# Mac/Linux
+.DS_Store
