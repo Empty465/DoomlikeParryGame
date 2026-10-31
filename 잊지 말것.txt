@@ -5,7 +5,7 @@
 Free Sounds Pack
 Free Weapon SFX
 SciFi Shots Pack2
+TII3StepsSCIFIAudio
 
 /Object
 Modular SciFi Station
-Modular SciFi Indoor/Outdoor Environment Pack
