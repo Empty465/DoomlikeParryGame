@@ -23,3 +23,6 @@ Saved/
 
 # Mac/Linux
 .DS_Store
+
+# External licensed assets
+Content/External/*

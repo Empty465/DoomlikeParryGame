@@ -1,0 +1,11 @@
+현재 외부 프리팹이 적용되었기에, 실행전에 Content폴더내에 External 폴더를 생성한다.
+그다음, 아래 목록에 있는 프리팹을 설치한다.
+
+/SFX
+Free Sounds Pack
+Free Weapon SFX
+SciFi Shots Pack2
+
+/Object
+Modular SciFi Station
+Modular SciFi Indoor/Outdoor Environment Pack
